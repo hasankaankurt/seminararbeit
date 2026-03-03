@@ -1,4 +1,5 @@
 Dieses Projekt prognostiziert den Erfolg von Telefonmarketing-Kampagnen zur Akquise von Termineinlagen bei einer portugiesischen Bank. Es entstand als Seminararbeit im Machine Learning Lab an der TH Ingolstadt.
+
 📊 Kernpunkte
 
     Ziel: Binäre Klassifikation (Abo: Ja/Nein) zur Effizienzsteigerung der Akquise.
